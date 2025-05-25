@@ -48,6 +48,9 @@ Non-stacking: new notifications appear under older ones
 ✅ Requirements / Követelmények
 FiveM server with ESX 
 
+Discord server:
+https://discord.gg/5WTtQcnPnb
+
 📜 License / Licenc
 This script is provided as-is by [22K Scripts].
 Free for use on personal or community servers.
