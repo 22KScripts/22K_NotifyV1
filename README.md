@@ -17,6 +17,7 @@ Edit `config.lua`:
 ```lua
 Config.Language = 'hu' -- 'hu' or 'en'
 Config.NotifyDuration = 5000 -- time in milliseconds (e.g., 5000 = 5 seconds)
+
 💬 How to use / Használat
 Client-side trigger:
 
@@ -28,6 +29,7 @@ Example command (client.lua):
 RegisterCommand("teszt", function()
     TriggerEvent("22k_notify:sendNotify", "Ez egy minta értesítés.")
 end)
+
 🌐 Multilingual Support / Többnyelvű Támogatás
 
 Config includes support for:
