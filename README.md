@@ -1,9 +1,10 @@
-**22K Notify System – V1**
-[EN]
+# **22K Notify System – V1**
+
+**[EN]**
 A clean and minimal notification system for ESX-based FiveM servers.
 Messages appear at the top center of the screen with configurable duration and multilingual support.
 
-[HU]
+**[HU]**
 Egy letisztult és egyszerű értesítőrendszer ESX-alapú FiveM szerverekhez.
 Az üzenetek a képernyő felső középső részén jelennek meg, állítható időtartammal és többnyelvű támogatással.
 
