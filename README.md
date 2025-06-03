@@ -1,16 +1,20 @@
-# **22K Notify System – V1**
+# 22K Notify System – V1
 
-**[EN]**
-A clean and minimal notification system for ESX-based FiveM servers.
+[EN]  
+A clean and minimal notification system for ESX-based FiveM servers.  
 Messages appear at the top center of the screen with configurable duration and multilingual support.
 
-**[HU]**
-Egy letisztult és egyszerű értesítőrendszer ESX-alapú FiveM szerverekhez.
+[HU]  
+Egy letisztult és egyszerű értesítőrendszer ESX-alapú FiveM szerverekhez.  
 Az üzenetek a képernyő felső középső részén jelennek meg, állítható időtartammal és többnyelvű támogatással.
 
-🔧 Configuration / Beállítás
-Edit config.lua:
+---
 
+## 🔧 Configuration / Beállítás
+
+Edit `config.lua`:
+
+```lua
 Config.Language = 'hu' -- 'hu' or 'en'
 Config.NotifyDuration = 5000 -- time in milliseconds (e.g., 5000 = 5 seconds)
 
